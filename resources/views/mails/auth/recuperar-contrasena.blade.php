@@ -39,7 +39,7 @@
             <!--end:Email content-->
 
             <div style="padding-bottom: 10px">
-                Mix Proyect.
+                JE Company.
             </div>
         </div>
     </td>

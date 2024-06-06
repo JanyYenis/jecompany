@@ -31,7 +31,7 @@
                     <td align="center" valign="center"
                         style="font-size: 13px; text-align:center;padding: 20px; color: #6d6e7c;">
                         <p>Floor 5, 450 Avenue of the Red Field, SF, 10050, USA.</p>
-                        <p> Copyright © <a href="{{ url('/') }}" rel="noopener" target="_blank">Mix Proyect</a>.
+                        <p> Copyright © <a href="{{ url('/') }}" rel="noopener" target="_blank">JE Company</a>.
                         </p>
                     </td>
                 </tr>

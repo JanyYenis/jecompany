@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Mix Proyect</title>
+    <title>JE Company</title>
     <meta charset="utf-8">
 	<meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="shortcut icon" href="{{asset('assets/media/logos/favicon.ico')}}" />

@@ -7,7 +7,7 @@
 
             <!--begin:Email content-->
             <div style="padding-bottom: 30px; font-size: 17px;">
-                <strong>¡Bienvenidos a Mix Proyect!</strong>
+                <strong>¡Bienvenidos a JE Company!</strong>
             </div>
 
             <div style="padding-bottom: 30px">
@@ -37,7 +37,7 @@
             <!--end:Email content-->
 
             <div style="padding-bottom: 10px">
-                Mix Proyect.
+                JE Company.
             </div>
         </div>
     </td>
